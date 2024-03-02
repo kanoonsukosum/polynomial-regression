@@ -1,7 +1,7 @@
 # Polynomial Regression Analysis with World Bank Data
 
 ## Description
-This Python project applies polynomial regression to explore the relationship between Japan's unemployment rates and GDP using data from The World Bank. It involves Python libraries such as NumPy for calculations, pandas for data handling, Matplotlib for visualization, and scikit-learn for polynomial regression analysis and R-squared evaluation. This effort illustrates the application of polynomial regression to examine non-linear dynamics in economic data, enhancing the understanding of economic indicators through practical data analysis and scientific computing techniques.
+This Python project applies polynomial regression to explore the relationship between Japan's unemployment rates and GDP using data from The World Bank. It involves Python libraries such as NumPy for calculations, pandas for data handling, Matplotlib for visualization, and scikit-learn for polynomial regression analysis and R-squared evaluation. This effort illustrates the application of polynomial regression to examine non-linear dynamics in economic data, enhancing the understanding of economic indicators through practical data analysis and scientific computing techniques. 
 
 ## Dataset Source
 Data for this analysis is sourced from The World Bank's country-specific datasets, available at [The World Bank - Country Data](https://data.worldbank.org/country). These datasets are under the Creative Commons Attribution 4.0 International License (CC BY 4.0), which allows for adaptation and use in any manner, provided appropriate attribution is given.
